@@ -1,0 +1,9 @@
+# requirements file for DLS C2 W1 A2
+# For Python 3.7.6
+
+dlai-tools==0.4.0
+h5py==2.10.0
+matplotlib==3.2.1
+numpy==1.18.4
+scikit-learn==0.22.2.post1
+scipy==1.4.1
