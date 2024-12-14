@@ -1,2 +1,2 @@
-# Deep-Learning-Specialization-Coursera
-Deep Learning Specialization by Coursera.
+# Deep Learning Specialization By Deeplearning.ai
+Deep Learning Specialization by Deeplearning.ai.
